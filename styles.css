@@ -1,0 +1,24 @@
+#informace
+{
+    padding-top: 850px;
+    padding-left: 20px;
+    font-family: lato;
+    font-weight: bold;
+    font-size: 36px;
+    text-shadow: 3px 3px 0px #000000;
+}
+
+#scores
+{
+    padding-top: 20px;
+    padding-left: 20px;
+    font-family: lato;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 2px 2px 0px #000000;
+}
+
+#panel1
+{
+    padding-left: 300px;
+}
